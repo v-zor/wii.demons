@@ -1,0 +1,6 @@
+wiiemu
+========
+
+Wii emulator (written in C++)
+
+run './configure' && 'make' to build
